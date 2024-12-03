@@ -2,8 +2,15 @@
 title: "Yansiel Melendez - Cybersecurity Specialist"
 ---
 
-# 👋 Hi, I'm Yansiel Melendez!
-Welcome to my professional portfolio.
+## 🎓 Education
+- **Bachelor of Applied Technology: Cybersecurity** (Expected Aug 2024) - Collin College
+- **Associate of Applied Science: Information Systems Cybersecurity** (Dec 2022) - Collin College
+- 
+---
+
+## 📜 Certifications
+- **CompTIA Security+ (Sec+)**
+- **CompTIA Network+ (Net+)**
 
 ---
 
@@ -21,19 +28,12 @@ Welcome to my professional portfolio.
 
 ---
 
-## 🎓 Education
-- **Bachelor of Applied Technology: Cybersecurity** (Expected Aug 2024) - Collin College
-- **Associate of Applied Science: Information Systems Cybersecurity** (Dec 2022) - Collin College
-
----
-
-## 🛠️ Technical Skills
-- **Cybersecurity Tools:** Splunk, Nessus, Wireshark, SIEM
-- **Programming & Scripting:** Python, SQL
-- **Frameworks & Standards:** NIST, MITRE ATT&CK, Regulatory Compliance
-- **Other Tools:** Salesforce, Jira
-- **Soft Skills:** Problem Solving, Project Management, Client Communication, Training
-- **Languages:** English, Spanish (Bilingual)
+## 🤔 Why Hire Me?
+- **Proven Expertise:** Extensive experience with cybersecurity tools like Splunk, Nessus, Wireshark, and SIEM, along with proficiency in Python and SQL for automation.
+- **Results-Driven:** Consistently deliver measurable outcomes, such as reducing vulnerabilities by 30% and cutting testing times by 25% through automation.
+- **Framework Knowledge:** Skilled in implementing NIST and MITRE ATT&CK frameworks to enhance organizational security posture.
+- **Bilingual Communication:** Fluent in English and Spanish, enabling effective collaboration across diverse teams and stakeholders.
+- **Commitment to Excellence:** Dedicated to continuous improvement and achieving 100% compliance with U.S. regulatory standards.
 
 ---
 
