@@ -3,7 +3,27 @@ title: "Yansiel Melendez - Cybersecurity Specialist"
 ---
 
 # 👋 Hi, I'm Yansiel Melendez!
-Welcome to my professional portfolio. I am a **Cybersecurity Specialist** with expertise in vulnerability management, threat mitigation, and regulatory compliance. My focus is on creating innovative solutions to protect critical assets and mitigate risks.
+Welcome to my professional portfolio.
+
+---
+
+## 💼 Professional Experience
+### Cybersecurity Specialist @ JF Glass & Mirror
+- Conducted vulnerability assessments, reducing system vulnerabilities by 30%.
+- Achieved 100% compliance with U.S. industry standards through internal audits.
+
+### Cybersecurity Research Assistant @ Florida International University
+- Enhanced remediation efficiency in biocybersecurity research by 30%.
+- Reduced testing time by 25% using Python automation.
+
+### Associate Support Technician @ Applied Systems
+- Resolved 95% of client issues on first contact, improving user satisfaction.
+
+---
+
+## 🎓 Education
+- **Bachelor of Applied Technology: Cybersecurity** (Expected Aug 2024) - Collin College
+- **Associate of Applied Science: Information Systems Cybersecurity** (Dec 2022) - Collin College
 
 ---
 
@@ -42,26 +62,6 @@ Welcome to my professional portfolio. I am a **Cybersecurity Specialist** with e
 4. **Incident Response Playbook**  
    - A structured guide for responding to common security incidents.  
    - **Frameworks:** NIST, MITRE ATT&CK.
-
----
-
-## 💼 Professional Experience
-### Cybersecurity Specialist @ JF Glass & Mirror
-- Conducted vulnerability assessments, reducing system vulnerabilities by 30%.
-- Achieved 100% compliance with U.S. industry standards through internal audits.
-
-### Cybersecurity Research Assistant @ Florida International University
-- Enhanced remediation efficiency in biocybersecurity research by 30%.
-- Reduced testing time by 25% using Python automation.
-
-### Associate Support Technician @ Applied Systems
-- Resolved 95% of client issues on first contact, improving user satisfaction.
-
----
-
-## 🎓 Education
-- **Bachelor of Applied Technology: Cybersecurity** (Expected Aug 2024) - Collin College
-- **Associate of Applied Science: Information Systems Cybersecurity** (Dec 2022) - Collin College
 
 ---
 
