@@ -9,8 +9,8 @@ title: "Yansiel Melendez - Cybersecurity Specialist"
 ---
 
 ## 📜 Certifications
-- **CompTIA Security+ (Sec+)**
-- **CompTIA Network+ (Net+)**
+- **CompTIA Security+**
+- **CompTIA Network+**
 
 ---
 
@@ -23,9 +23,6 @@ title: "Yansiel Melendez - Cybersecurity Specialist"
 - Enhanced remediation efficiency in biocybersecurity research by 30%.
 - Reduced testing time by 25% using Python automation.
 
-### Associate Support Technician @ Applied Systems
-- Resolved 95% of client issues on first contact, improving user satisfaction.
-
 ---
 
 ## 🤔 Why Hire Me?
@@ -34,14 +31,6 @@ title: "Yansiel Melendez - Cybersecurity Specialist"
 - **Framework Knowledge:** Skilled in implementing NIST and MITRE ATT&CK frameworks to enhance organizational security posture.
 - **Bilingual Communication:** Fluent in English and Spanish, enabling effective collaboration across diverse teams and stakeholders.
 - **Commitment to Excellence:** Dedicated to continuous improvement and achieving 100% compliance with U.S. regulatory standards.
-
----
-
-## 🌟 Key Achievements
-- Reduced system vulnerabilities by **30%** using NIST-aligned strategies and Nessus.
-- Automated testing processes with **Python**, cutting testing times by **25%**.
-- Enhanced system resilience by **40%** through threat mitigation and incident response improvements.
-- Achieved full compliance with U.S. regulatory standards.
 
 ---
 
@@ -55,13 +44,7 @@ title: "Yansiel Melendez - Cybersecurity Specialist"
    - A Python-based tool to capture and analyze network packets.  
    - **Technologies:** Python, Scapy.
 
-3. **Vulnerability Scanning Script**  
-   - Automating vulnerability scans with Nmap and generating reports.  
-   - **Technologies:** Python, Nmap, Reporting Tools.
-
-4. **Incident Response Playbook**  
-   - A structured guide for responding to common security incidents.  
-   - **Frameworks:** NIST, MITRE ATT&CK.
+View my all [my projects](https://github.com/YMQSec/Projects).
 
 ---
 
