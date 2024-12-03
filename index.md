@@ -4,9 +4,9 @@ title: "Yansiel Melendez - Cybersecurity Specialist"
 
 ## 🎓 Education
 - **Bachelor of Applied Technology: Cybersecurity**
-- (Aug 2024) - Collin College
+(Aug 2024) - Collin College
 - **Associate of Applied Science: Information Systems Cybersecurity**
-- (Dec 2022) - Collin College
+(Dec 2022) - Collin College
 
 ---
 
