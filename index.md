@@ -37,17 +37,27 @@ title: "Yansiel Melendez - Cybersecurity Specialist"
 
 ---
 
-## 🚀 Projects
-### 📌 In-Progress Projects
-1. **Password Strength Analyzer**  
-   - A tool to evaluate password strength and suggest improvements.  
-   - **Technologies:** Python, Regex, Data Validation.
+### ✅ Completed Projects
 
-2. **Packet Sniffer**  
-   - A Python-based tool to capture and analyze network packets.  
-   - **Technologies:** Python, Scapy.
+- [x] **Password Strength Analyzer**  
+  [Explore the Project on GitHub](https://github.com/YMQSec/Projects/tree/867dda818a9b2cf1acd05368403c14b7f9b427bb/Password%20Strength%20Analyzer)  
 
-[View my all my projects](https://github.com/YMQSec/Projects).
+  A Python-based tool to evaluate the strength of passwords and provide actionable feedback for improvement.  
+  - Categorizes passwords as **Weak**, **Medium**, or **Strong**.
+  - Offers suggestions to enhance security, such as lengthening the password or adding special characters.
+
+---
+
+### 📌 In-Progress Projects 
+
+- [ ] **Packet Sniffer**  
+  A Python-based tool to capture and analyze network packets.
+
+- [ ] **Vulnerability Scanning Script**  
+  Automating vulnerability scans with Nmap and generating reports.
+
+- [ ] **Incident Response Playbook**  
+  A structured guide for responding to common security incidents.
 
 ---
 
