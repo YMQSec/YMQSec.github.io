@@ -2,7 +2,7 @@
 title: "Yansiel Melendez - Cybersecurity Specialist"
 ---
 
-## 🎓 Education
+##  Education
 - **Bachelor of Applied Technology: Cybersecurity**  
   (Aug 2024) – Collin College  
 
@@ -11,13 +11,13 @@ title: "Yansiel Melendez - Cybersecurity Specialist"
 
 ---
 
-## 📜 Certifications
+##  Certifications
 - **CompTIA Security+**
 - **CompTIA Network+**
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 ### Cybersecurity Specialist @ JF Glass & Mirror
 - Conducted vulnerability assessments, reducing system vulnerabilities by 30%.
 - Achieved 100% compliance with U.S. industry standards through internal audits.
@@ -28,7 +28,7 @@ title: "Yansiel Melendez - Cybersecurity Specialist"
 
 ---
 
-## 🤔 Why Hire Me?
+##  Why Hire Me?
 - **Proven Expertise:** Extensive experience with cybersecurity tools like Splunk, Nessus, Wireshark, and SIEM, along with proficiency in Python and SQL for automation.
 - **Results-Driven:** Consistently deliver measurable outcomes, such as reducing vulnerabilities by 30% and cutting testing times by 25% through automation.
 - **Framework Knowledge:** Skilled in implementing NIST and MITRE ATT&CK frameworks to enhance organizational security posture.
@@ -61,12 +61,12 @@ title: "Yansiel Melendez - Cybersecurity Specialist"
 
 ---
 
-## 📄 My Resume
+##  My Resume
 [View my full resume here](Resume/Yansiel_Melendez_Resume.pdf).
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 I’m actively seeking opportunities in cybersecurity. Feel free to reach out or connect with me!
 - **Email:** [yansiel.melendez@gmail.com](mailto:yansiel.melendez@gmail.com)
 - **LinkedIn:** [linkedin.com/in/yansiel-melendez](https://www.linkedin.com/in/yansiel-melendez)
