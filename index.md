@@ -44,12 +44,12 @@ title: "Yansiel Melendez - Cybersecurity Specialist"
    - A Python-based tool to capture and analyze network packets.  
    - **Technologies:** Python, Scapy.
 
-View my all [my projects](https://github.com/YMQSec/Projects).
+[View my all my projects](https://github.com/YMQSec/Projects).
 
 ---
 
 ## 📄 My Resume
-View my full [resume here](Resume/Yansiel_Melendez_Resume.pdf).
+[View my full resume here](Resume/Yansiel_Melendez_Resume.pdf).
 
 ---
 
