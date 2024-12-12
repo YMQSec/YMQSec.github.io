@@ -12,8 +12,13 @@ title: "Yansiel Melendez - Cybersecurity Specialist"
 ---
 
 ##  Certifications
-- **CompTIA Security+**
-- **CompTIA Network+**
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="17a3198c-d3fe-4459-9866-56d80b39760b" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="15c4becc-3880-49e4-bcb3-f842ac092a2e" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 ---
 
