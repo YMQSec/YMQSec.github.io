@@ -22,12 +22,14 @@ title: "Yansiel Melendez - Cybersecurity Specialist"
 
 ##  Professional Experience
 ### Cybersecurity Specialist @ JF Glass & Mirror
-- Conducted vulnerability assessments, reducing system vulnerabilities by 30%.
-- Achieved 100% compliance with U.S. industry standards through internal audits.
+- Performed vulnerability assessments using Nessus, leading to significant improvements in system security through comprehensive NIST-aligned remediation strategies.
+- Developed and implemented compliance frameworks for internal audits, ensuring 100% alignment with U.S. industry standards.
 
 ### Cybersecurity Research Assistant @ Florida International University
-- Enhanced remediation efficiency in biocybersecurity research by 30%.
-- Reduced testing time by 25% using Python automation.
+- Conducted advanced biocybersecurity research, identifying and mitigating vulnerabilities in genomic
+systems using Wireshark, significantly improving remediation efficiency.
+- Automated security testing with Python scripts, reducing testing times and enhancing overall system
+integrity.
 
 ---
 
